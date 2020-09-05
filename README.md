@@ -15,7 +15,7 @@ EMAIL_HOST_PASSWORD = '#Your Password'
 ```
 > I user Gmail Account in this project
 
-So you should user
+So you should use
 
 * SMTP
 * HOST
