@@ -29,4 +29,4 @@ So you should use
 ---
 ## Password Configuration 
 1. If you are not using ***2-steps verification***, you have to ***allow a less secure app*** for your Gmail account.
-1. If you user ***2-steps verification***, you have to use the ***app password*** for your application. They will give you a plain text password for your particular app. You can use that password in ***EMAIL_HOST_PASSWORD*** without using your main Gmail password. 
+1. If you use ***2-steps verification***, you have to use the ***app password*** for your application. They will give you a plain text password for your particular app. You can use that password in ***EMAIL_HOST_PASSWORD*** without using your main Gmail password. 
